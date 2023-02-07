@@ -1,17 +1,39 @@
 
 {
-  "comment": [
-    {
-      "utente": "mario",
-      "testo_commento": "dhusggfuksau"
-    },
-    
-    {
-      "utente": "dana",
-      "testo_commento": "dhusggdvddfgfuksau"
-    }
-  ],
   "post": [
-  ]
+    {
+        "post": "fjhdbfsdb",
+        "likes": 0,
+        "dislikes": 0,
+        "comment": [
+          {
+            "utente": "mario",
+            "testo_commento": "dhusggfuksau"
+          },
+
+          {
+            "utente": "dana",
+            "testo_commento": "dhusggdvddfgfuksau"
+          }
+        ]
+    },
+    {
+        "post": "fjhdbfsdb",
+        "likes": 0,
+        "dislikes": 0,
+        "comment": [
+          {
+            "utente": "mario",
+            "testo_commento": "dhusggfuksau"
+          },
+
+          {
+            "utente": "dana",
+            "testo_commento": "dhusggdvddfgfuksau"
+          }
+        ]
+    }
+    ]
 }
-  
+
+
